@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - For the `parse` command the `--profiler` option to help debugging
   performance issues.
+- Support for the `do` command in the jinja templater.
 
 ### Changed
 
